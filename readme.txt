@@ -10,4 +10,5 @@ Git has a mutable index called stage./1
 Git has a mutable index called stage./2
 Git has a mutable index called stage./3
 
-Git track changes.
+Git track changes
+Git track many changes.
